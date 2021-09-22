@@ -1,5 +1,4 @@
 # Project Proposal for the movie studio on what the next movie project should be.
-----
 
 - Question: 
 The goal of this project will be to show the studio what type of movie to produce next. By using the linear regression model to create a rough prediction model that can provide information on the type of movie that will be the most profitable.
