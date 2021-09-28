@@ -5,3 +5,7 @@ The goal for this project is to provide recommendations on what movie to produce
 <insert grpah>
 <br>
 - This graph is a rough prediction based on gross domestic profit and features of genres, number of releases in that genre, ranking, foreign profit, budget, release date, 
+- fit a model
+- explain what my next steps are.
+  here are more
+  
