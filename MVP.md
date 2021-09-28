@@ -2,6 +2,7 @@
 <br>
 The goal for this project is to provide recommendations on what movie to produce next that will make the most profit.
 <br>
+<br>
 
 ![Highest Revenue per Ranking](https://github.com/Silver-Swan/Regression_METIS/blob/main/images/Highest%20Revenue%20per%20Genres.png)
 <br>
